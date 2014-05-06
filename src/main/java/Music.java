@@ -29,6 +29,9 @@ import org.openrdf.rio.Rio;
 import org.openrdf.sail.memory.MemoryStore;
 
 public class Music {
+	
+	
+	
 	public static void main(String[] args) throws RepositoryException,
 			RDFHandlerException, RDFParseException, IOException {
 
@@ -51,8 +54,8 @@ public class Music {
 			Model model = Iterations.addAll(statements, new LinkedHashModel());
 			
 			//Rio.write(model, System.out, RDFFormat.TURTLE);
-			Rio.write(model, outputXML, RDFFormat.RDFXML);
-			Rio.write(model, outputTurtle, RDFFormat.TURTLE);
+			//Rio.write(model, outputXML, RDFFormat.RDFXML);
+			//Rio.write(model, outputTurtle, RDFFormat.TURTLE);
 			
 			
 		} finally {

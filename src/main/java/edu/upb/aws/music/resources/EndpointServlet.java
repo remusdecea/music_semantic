@@ -36,7 +36,6 @@ public class EndpointServlet extends HttpServlet {
 		
 		SPARQLResultsJSONWriter sparqlWriter = new SPARQLResultsJSONWriter(response.getOutputStream());
 		
-//		String queryString = "PREFIX mo: <http://purl.org/ontology/mo/> SELECT ?x ?y WHERE { ?x mo:performed ?y }  ";
 		String queryString = request.getParameter("query");
 		TupleQuery tupleQuery;
 		try {
@@ -44,17 +43,7 @@ public class EndpointServlet extends HttpServlet {
 					.prepareTupleQuery(QueryLanguage.SPARQL, queryString);
 			System.out.println("json writer");
 			tupleQuery.evaluate(sparqlWriter);
-			
-//			while (result.hasNext()) {
-//				BindingSet bindingSet = result.next();
-//				List<String> bindingNames = result.getBindingNames();
-//				System.out.println("BINDING NAMES " + bindingNames);
-//				for(int i = 0; i < bindingNames.size(); i++){
-//					response.getWriter().print(bindingSet.getValue(bindingNames.get(i)) + " ");
-//				}
-//				
-//				
-//			}
+
 		} catch (RepositoryException e) {
 			e.printStackTrace();
 		} catch (MalformedQueryException e) {
@@ -82,7 +71,6 @@ public class EndpointServlet extends HttpServlet {
 					.prepareTupleQuery(QueryLanguage.SPARQL, queryString);
 			tupleQuery = MusicRepository.getRepositoryConnection()
 					.prepareTupleQuery(QueryLanguage.SPARQL, queryString);
-			System.out.println("json writer");
 			tupleQuery.evaluate(sparqlWriter);
 
 		} catch (RepositoryException e) {

@@ -8,6 +8,9 @@
 	<name>Music Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
+	<properties>
+		<org.springframework-version>4.0.0.RELEASE</org.springframework-version>
+	</properties>
 
 	<build>
 		<resources>
@@ -47,6 +50,11 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+       <dependency>
 			<groupId>com.sun.jersey</groupId>
 			<artifactId>jersey-json</artifactId>
 			<version>1.17</version>
@@ -67,6 +75,31 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- Spring -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>${org.springframework-version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+			<version>${org.springframework-version}</version>
+		</dependency>
+		
+		<!-- Jersey Client and JSON -->
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-json</artifactId>
+			<version>1.17</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-client</artifactId>
+			<version>1.17</version>
+		</dependency>
+		
 	</dependencies>
 
 </project>

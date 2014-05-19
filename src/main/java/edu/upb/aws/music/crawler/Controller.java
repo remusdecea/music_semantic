@@ -1,7 +1,6 @@
 package edu.upb.aws.music.crawler;
 import java.util.Collections;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
@@ -69,6 +68,17 @@ public class Controller {
         controller.setCustomData(artists);
         controller.start(ArtistPageCrawler.class, numberOfCrawlers);
      
-}
+        for(Artist a : artists) {
+        	System.out.println(a.getName() + a.getTags() + a.getSimilarArtists());
+        }
+	}
+	
+	public static Set<String> getTagSet() {
+		Set<String> tags = new HashSet<>();
+		for(Artist a : artists) {
+			tags.addAll(a.getTags());
+		}
+		return tags;
+	}
 
 }

@@ -33,7 +33,7 @@ public class ArtistPageCrawler extends WebCrawler {
 	@Override
 	public void visit(Page page) {          
 		String url = page.getWebURL().getURL();
-		System.out.println("URL: " + url);
+		//System.out.println("URL: " + url);
 		Set<Artist> artists = (Set<Artist>) this.getMyController().getCustomData();
 		if (page.getParseData() instanceof HtmlParseData) {
 			HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
@@ -43,13 +43,31 @@ public class ArtistPageCrawler extends WebCrawler {
 	        props.setOmitComments(true);
 			TagNode tagNode = cleaner.clean(htmlParseData.getHtml());
 			
+			Artist artist = null;
+			for (Artist a : artists)
+				if(url.equals(a.getLastFmURL()))
+					artist = a;
+			if(artist == null)
+				return;
+			
 			TagNode [] songList = tagNode.getElementsByAttValue("itemtype", "http://schema.org/MusicRecording", true, true);
 			//System.out.println(songList.length);
 			for(TagNode tn : songList) {
 				String song = tn.getElementsByAttValue("itemprop", "name", true, true)[0].getText().toString();
-				for (Artist a : artists)
-					if(url.equals(a.getLastFmURL()))
-						a.addSong(song);
+				artist.addSong(song);
+			}
+			
+			TagNode[] tagList = tagNode.getElementsByAttValue("class", "tags", true, false)[0].getChildTags();
+			for(TagNode tn : tagList) {
+				String tag = tn.getElementsByAttValue("rel", "tag", true, false)[0].getText().toString();
+				artist.addTag(tag);
+			}
+			
+			TagNode[] artistList = tagNode.getElementsByAttValue("class", "similar-artist", true, false);
+			for(TagNode tn : artistList) {
+				String artistName = tn.getElementsByAttValue("class", "text-over-image-text", true, false)[0].getText().toString();
+				String artistLink = tn.getAttributeByName("href");
+				artist.addSimilarArtist(new Artist(artistName, LastFmCrawler.baseURL + artistLink));
 			}
 		}
 	}

@@ -28,7 +28,7 @@ public class MusicRepository {
 	private static RepositoryConnection REPOSITORY_CONN;
 	private static final String ONTOLOGY_FILE_PATH = "src/main/resources/mo.rdf";
 	private static final String BASE_URI = "http://purl.org/ontology/mo/";
-	private static final boolean isCrawlNeeded = false;
+	private static final boolean isCrawlNeeded = true;
 	
 	public static RepositoryConnection getRepositoryConnection(){
 		if(REPOSITORY_CONN == null){
@@ -49,29 +49,45 @@ public class MusicRepository {
 		REPOSITORY_CONN = repository.getConnection();
 		REPOSITORY_CONN.add(new File(MusicRepository.class.getResource("/crawled_rdfxml.rdf").getPath()), BASE_URI, RDFFormat.RDFXML);
 		ValueFactory f = repository.getValueFactory();
-		FileOutputStream outputXML = new FileOutputStream(new File("acrawled_rdfxml.rdf"));
+		FileOutputStream outputXML = new FileOutputStream(new File("/crawled_rdfxml.rdf"));
 		
 		
 		//TODO: change to artist
 		URI musicGroup = f.createURI(BASE_URI+ "MusicArtist");
 		URI performance = f.createURI(BASE_URI+ "Performance");
 		URI performed = f.createURI(BASE_URI+ "performed");
-
+		URI similarTo = f.createURI(BASE_URI + "similar_to"); 
+		URI genreProp = f.createURI(BASE_URI + "genre");
+		URI genre = f.createURI(BASE_URI + "Genre");
+		
 		if(isCrawlNeeded){
 			Set<Artist> artists = Controller.getArtistSet();
+			Set<String> tags = Controller.getTagSet();
+			for(String tag : tags) {
+				URI tagURI = f.createURI(BASE_URI + tag);
+				REPOSITORY_CONN.add(tagURI, RDF.TYPE, genre);
+			}
 			for(Artist a : artists) {
-	        	System.out.println(a.getName());
 	        	//add artist as MusicArtist type
 	        	URI artist = f.createURI(BASE_URI + a.getName());
 	        	REPOSITORY_CONN.add(artist, RDF.TYPE, musicGroup);
 	    		for(String songName : a.getSongs()){
-	        		System.out.println("\t" + songName);
 	        		URI song = f.createURI(BASE_URI+songName);
 	        		//add song as Performance type
 	        		REPOSITORY_CONN.add(song, RDF.TYPE, performance);
 	        		//add property performed
 	        		REPOSITORY_CONN.add(artist, performed, song);
 	        	}
+	    		for(String tag : a.getTags()) {
+	    			URI tagURI = f.createURI(BASE_URI + tag);
+	    			REPOSITORY_CONN.add(artist, genreProp, tagURI);
+	    		}
+	    		
+	    		for(Artist sa : a.getSimilarArtists()) {
+	    			URI simArtist = f.createURI(BASE_URI + sa.getName());
+	    			REPOSITORY_CONN.add(artist, similarTo, simArtist);
+	    			REPOSITORY_CONN.add(simArtist, similarTo, artist);
+	    		}
 	        }
 			RepositoryResult<Statement> statements = REPOSITORY_CONN.getStatements(
 					null, null, null, true);

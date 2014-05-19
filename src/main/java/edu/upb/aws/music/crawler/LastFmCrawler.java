@@ -1,10 +1,6 @@
 package edu.upb.aws.music.crawler;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Set;
-import java.util.regex.Pattern;
-
 import org.htmlcleaner.CleanerProperties;
 import org.htmlcleaner.HtmlCleaner;
 import org.htmlcleaner.TagNode;
@@ -38,7 +34,7 @@ public class LastFmCrawler extends WebCrawler {
 	public void visit(Page page) {          
 		Set<Artist> artists = (Set<Artist>) this.getMyController().getCustomData();
 		String url = page.getWebURL().getURL();
-		System.out.println("URL: " + url);
+		//System.out.println("URL: " + url);
 	
 		if (page.getParseData() instanceof HtmlParseData) {
 			HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();

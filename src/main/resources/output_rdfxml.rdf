@@ -299,10 +299,10 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 	<term_status xmlns="http://www.w3.org/2003/06/sw-vocab-status/ns#">unstable</term_status>
 	<level xmlns="http://purl.org/ontology/mo/">2</level>
-	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x1"/>
+	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx1"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x1">
+<rdf:Description rdf:nodeID="node18o8o1n2cx1">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
 	<onProperty xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/performed"/>
 </rdf:Description>
@@ -311,7 +311,7 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x1">
+<rdf:Description rdf:nodeID="node18o8o1n2cx1">
 	<someValuesFrom xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/Performance"/>
 </rdf:Description>
 
@@ -323,10 +323,10 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 	<term_status xmlns="http://www.w3.org/2003/06/sw-vocab-status/ns#">unstable</term_status>
 	<level xmlns="http://purl.org/ontology/mo/">2</level>
-	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x2"/>
+	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx2"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x2">
+<rdf:Description rdf:nodeID="node18o8o1n2cx2">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
 	<onProperty xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/engineered"/>
 </rdf:Description>
@@ -335,7 +335,7 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x2">
+<rdf:Description rdf:nodeID="node18o8o1n2cx2">
 	<someValuesFrom xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/Performance"/>
 </rdf:Description>
 
@@ -347,10 +347,10 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 	<term_status xmlns="http://www.w3.org/2003/06/sw-vocab-status/ns#">unstable</term_status>
 	<level xmlns="http://purl.org/ontology/mo/">2</level>
-	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x3"/>
+	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx3"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x3">
+<rdf:Description rdf:nodeID="node18o8o1n2cx3">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
 	<onProperty xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/listened"/>
 </rdf:Description>
@@ -359,7 +359,7 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x3">
+<rdf:Description rdf:nodeID="node18o8o1n2cx3">
 	<someValuesFrom xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/Performance"/>
 </rdf:Description>
 
@@ -371,10 +371,10 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 	<term_status xmlns="http://www.w3.org/2003/06/sw-vocab-status/ns#">unstable</term_status>
 	<level xmlns="http://purl.org/ontology/mo/">2</level>
-	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x4"/>
+	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx4"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x4">
+<rdf:Description rdf:nodeID="node18o8o1n2cx4">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
 	<onProperty xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/conducted"/>
 </rdf:Description>
@@ -383,7 +383,7 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x4">
+<rdf:Description rdf:nodeID="node18o8o1n2cx4">
 	<someValuesFrom xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/Performance"/>
 </rdf:Description>
 
@@ -395,10 +395,10 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 	<term_status xmlns="http://www.w3.org/2003/06/sw-vocab-status/ns#">unstable</term_status>
 	<level xmlns="http://purl.org/ontology/mo/">2</level>
-	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x5"/>
+	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx5"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x5">
+<rdf:Description rdf:nodeID="node18o8o1n2cx5">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
 	<onProperty xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/NET/c4dm/event.owl#isAgentIn"/>
 </rdf:Description>
@@ -407,7 +407,7 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x5">
+<rdf:Description rdf:nodeID="node18o8o1n2cx5">
 	<someValuesFrom xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/Composition"/>
 </rdf:Description>
 
@@ -419,10 +419,10 @@ particular time').</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 	<term_status xmlns="http://www.w3.org/2003/06/sw-vocab-status/ns#">unstable</term_status>
 	<level xmlns="http://purl.org/ontology/mo/">2</level>
-	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x6"/>
+	<equivalentClass xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx6"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x6">
+<rdf:Description rdf:nodeID="node18o8o1n2cx6">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
 	<onProperty xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/NET/c4dm/event.owl#isAgentIn"/>
 	<someValuesFrom xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/Arrangement"/>
@@ -1092,25 +1092,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		to attach a more concrete role (this agent performed, or was the composer, etc.), we must 
 		use mo:Performer, mo:MusicalWork/mo:Composition, etc. This indeed allows to specify where a 
 		particular agent took part in the actual workflow.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x7"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx7"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x7">
+<rdf:Description rdf:nodeID="node18o8o1n2cx7">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x8"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx8"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x8">
+<rdf:Description rdf:nodeID="node18o8o1n2cx8">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x9"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx9"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x9">
+<rdf:Description rdf:nodeID="node18o8o1n2cx9">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Record"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x10"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx10"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x10">
+<rdf:Description rdf:nodeID="node18o8o1n2cx10">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Track"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -1128,25 +1128,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Relates an agent to a manifestation he contributed to create.</comment>
 	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x11"/>
+	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx11"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x11">
+<rdf:Description rdf:nodeID="node18o8o1n2cx11">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x12"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx12"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x12">
+<rdf:Description rdf:nodeID="node18o8o1n2cx12">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x13"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx13"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x13">
+<rdf:Description rdf:nodeID="node18o8o1n2cx13">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Record"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x14"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx14"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x14">
+<rdf:Description rdf:nodeID="node18o8o1n2cx14">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Track"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -1175,20 +1175,20 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Links an instant or an interval to the timeline it is defined on (eg. "1970 is defined on the
 		time line universaltimeline", or "the interval between 0 and 2 minutes is defined on the time
 		line backing this sound and this signal").</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x15"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx15"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x15">
+<rdf:Description rdf:nodeID="node18o8o1n2cx15">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x16"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx16"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x16">
+<rdf:Description rdf:nodeID="node18o8o1n2cx16">
 	<rdf:first rdf:resource="http://www.w3.org/2006/time#Interval"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x17"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx17"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x17">
+<rdf:Description rdf:nodeID="node18o8o1n2cx17">
 	<rdf:first rdf:resource="http://www.w3.org/2006/time#Instant"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -1517,20 +1517,20 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		Bastille last year.</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://purl.org/ontology/mo/Performance"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x18"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx18"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x18">
+<rdf:Description rdf:nodeID="node18o8o1n2cx18">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x19"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx19"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x19">
+<rdf:Description rdf:nodeID="node18o8o1n2cx19">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Score"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x20"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx20"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x20">
+<rdf:Description rdf:nodeID="node18o8o1n2cx20">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -1584,20 +1584,20 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		a particular Performance.</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://purl.org/ontology/mo/Performance"/>
-	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x21"/>
+	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx21"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x21">
+<rdf:Description rdf:nodeID="node18o8o1n2cx21">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x22"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx22"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x22">
+<rdf:Description rdf:nodeID="node18o8o1n2cx22">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Score"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x23"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx23"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x23">
+<rdf:Description rdf:nodeID="node18o8o1n2cx23">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -1759,30 +1759,30 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		Further version of this property may also include works and scores in the domain.</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<subPropertyOf xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://purl.org/NET/c4dm/event.owl#factor"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x24"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx24"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x24">
+<rdf:Description rdf:nodeID="node18o8o1n2cx24">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x25"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx25"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x25">
+<rdf:Description rdf:nodeID="node18o8o1n2cx25">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Performance"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x26"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx26"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x26">
+<rdf:Description rdf:nodeID="node18o8o1n2cx26">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Arrangement"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x27"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx27"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x27">
+<rdf:Description rdf:nodeID="node18o8o1n2cx27">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Composition"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x28"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx28"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x28">
+<rdf:Description rdf:nodeID="node18o8o1n2cx28">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Recording"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -1942,30 +1942,30 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Indicates a pictorial image (JPEG, GIF, PNG, Etc.) of a musical work, the expression of a musical work, the manifestation of a work or the examplar of a manifestation.</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x29"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx29"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x29">
+<rdf:Description rdf:nodeID="node18o8o1n2cx29">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x30"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx30"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x30">
+<rdf:Description rdf:nodeID="node18o8o1n2cx30">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x31"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx31"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x31">
+<rdf:Description rdf:nodeID="node18o8o1n2cx31">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalExpression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x32"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx32"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x32">
+<rdf:Description rdf:nodeID="node18o8o1n2cx32">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x33"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx33"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x33">
+<rdf:Description rdf:nodeID="node18o8o1n2cx33">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalItem"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2030,59 +2030,59 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Links a signal or a score to its manifestations - this is a subproperty of frbr:embodiment (linking
 		an Expression to a Manifestation)</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x34"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx34"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x34">
+<rdf:Description rdf:nodeID="node18o8o1n2cx34">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x35"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx35"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x35">
+<rdf:Description rdf:nodeID="node18o8o1n2cx35">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Signal"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x36"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx36"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x36">
+<rdf:Description rdf:nodeID="node18o8o1n2cx36">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Score"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x37"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx37"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x37">
+<rdf:Description rdf:nodeID="node18o8o1n2cx37">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Libretto"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x38"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx38"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x38">
+<rdf:Description rdf:nodeID="node18o8o1n2cx38">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Lyrics"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://purl.org/ontology/mo/published_as">
-	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x39"/>
+	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx39"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x39">
+<rdf:Description rdf:nodeID="node18o8o1n2cx39">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x40"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx40"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x40">
+<rdf:Description rdf:nodeID="node18o8o1n2cx40">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Record"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x41"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx41"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x41">
+<rdf:Description rdf:nodeID="node18o8o1n2cx41">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/PublishedScore"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x42"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx42"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x42">
+<rdf:Description rdf:nodeID="node18o8o1n2cx42">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/PublishedLibretto"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x43"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx43"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x43">
+<rdf:Description rdf:nodeID="node18o8o1n2cx43">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/PublishedLyrics"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2112,59 +2112,59 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Link a particular manifestation to the related signal, score, libretto, or lyrics</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
-	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x44"/>
+	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx44"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x44">
+<rdf:Description rdf:nodeID="node18o8o1n2cx44">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x45"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx45"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x45">
+<rdf:Description rdf:nodeID="node18o8o1n2cx45">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Signal"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x46"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx46"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x46">
+<rdf:Description rdf:nodeID="node18o8o1n2cx46">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Score"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x47"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx47"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x47">
+<rdf:Description rdf:nodeID="node18o8o1n2cx47">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Libretto"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x48"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx48"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x48">
+<rdf:Description rdf:nodeID="node18o8o1n2cx48">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Lyrics"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://purl.org/ontology/mo/publication_of">
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x49"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx49"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x49">
+<rdf:Description rdf:nodeID="node18o8o1n2cx49">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x50"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx50"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x50">
+<rdf:Description rdf:nodeID="node18o8o1n2cx50">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Record"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x51"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx51"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x51">
+<rdf:Description rdf:nodeID="node18o8o1n2cx51">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/PublishedScore"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x52"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx52"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x52">
+<rdf:Description rdf:nodeID="node18o8o1n2cx52">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/PublishedLibretto"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x53"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx53"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x53">
+<rdf:Description rdf:nodeID="node18o8o1n2cx53">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/PublishedLyrics"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2243,20 +2243,20 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Indicates the BPM of a MusicalWork or a particular Performance 
 		Beats per minute: the pace of music measured by the number of beats occurring in 60 seconds.</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x54"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx54"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x54">
+<rdf:Description rdf:nodeID="node18o8o1n2cx54">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x55"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx55"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x55">
+<rdf:Description rdf:nodeID="node18o8o1n2cx55">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x56"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx56"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x56">
+<rdf:Description rdf:nodeID="node18o8o1n2cx56">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Performance"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2277,20 +2277,20 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		vivace (lively); presto (very fast); accelerando (getting faster); ritardando (getting slower); 
 		and a tempo (in time; returning to the original pace).</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x57"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx57"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x57">
+<rdf:Description rdf:nodeID="node18o8o1n2cx57">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x58"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx58"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x58">
+<rdf:Description rdf:nodeID="node18o8o1n2cx58">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x59"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx59"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x59">
+<rdf:Description rdf:nodeID="node18o8o1n2cx59">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Performance"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2308,20 +2308,20 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Indicated the key used by the musicians during a performance, or the key of a MusicalWork.
 		Any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music.</comment>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x60"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx60"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x60">
+<rdf:Description rdf:nodeID="node18o8o1n2cx60">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x61"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx61"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x61">
+<rdf:Description rdf:nodeID="node18o8o1n2cx61">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x62"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx62"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x62">
+<rdf:Description rdf:nodeID="node18o8o1n2cx62">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Performance"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2398,49 +2398,49 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		artists, or coming from some automatic content analysis).
 		However, the origin of such statements should be kept using a named graph approach - and ultimately, the 
 		documents providing such statements should attach some metadata to themselves (confidence of the claim, etc.).</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x63"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx63"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x63">
+<rdf:Description rdf:nodeID="node18o8o1n2cx63">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x64"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx64"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x64">
+<rdf:Description rdf:nodeID="node18o8o1n2cx64">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x65"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx65"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x65">
+<rdf:Description rdf:nodeID="node18o8o1n2cx65">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Signal"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x66"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx66"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x66">
+<rdf:Description rdf:nodeID="node18o8o1n2cx66">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Genre"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://purl.org/ontology/mo/similar_to">
-	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x67"/>
+	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx67"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x67">
+<rdf:Description rdf:nodeID="node18o8o1n2cx67">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x68"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx68"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x68">
+<rdf:Description rdf:nodeID="node18o8o1n2cx68">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x69"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx69"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x69">
+<rdf:Description rdf:nodeID="node18o8o1n2cx69">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Signal"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x70"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx70"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x70">
+<rdf:Description rdf:nodeID="node18o8o1n2cx70">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Genre"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2458,15 +2458,15 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link an work, an expression of a work, a manifestation of a work, 
 		a person, an instrument or a musical genre to its corresponding WikiPedia page. 
 		The full URL should be used, not just the WikiName.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x71"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx71"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x71">
+<rdf:Description rdf:nodeID="node18o8o1n2cx71">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x72"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx72"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x72">
+<rdf:Description rdf:nodeID="node18o8o1n2cx72">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Work"/>
 </rdf:Description>
 
@@ -2474,11 +2474,11 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x72">
-	<rdf:rest rdf:nodeID="node18mi9hfs9x73"/>
+<rdf:Description rdf:nodeID="node18o8o1n2cx72">
+	<rdf:rest rdf:nodeID="node18o8o1n2cx73"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x73">
+<rdf:Description rdf:nodeID="node18o8o1n2cx73">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Expression"/>
 </rdf:Description>
 
@@ -2486,11 +2486,11 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x73">
-	<rdf:rest rdf:nodeID="node18mi9hfs9x74"/>
+<rdf:Description rdf:nodeID="node18o8o1n2cx73">
+	<rdf:rest rdf:nodeID="node18o8o1n2cx74"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x74">
+<rdf:Description rdf:nodeID="node18o8o1n2cx74">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
 </rdf:Description>
 
@@ -2498,11 +2498,11 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x74">
-	<rdf:rest rdf:nodeID="node18mi9hfs9x75"/>
+<rdf:Description rdf:nodeID="node18o8o1n2cx74">
+	<rdf:rest rdf:nodeID="node18o8o1n2cx75"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x75">
+<rdf:Description rdf:nodeID="node18o8o1n2cx75">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Item"/>
 </rdf:Description>
 
@@ -2510,21 +2510,21 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x75">
-	<rdf:rest rdf:nodeID="node18mi9hfs9x76"/>
+<rdf:Description rdf:nodeID="node18o8o1n2cx75">
+	<rdf:rest rdf:nodeID="node18o8o1n2cx76"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x76">
+<rdf:Description rdf:nodeID="node18o8o1n2cx76">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x77"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx77"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x77">
+<rdf:Description rdf:nodeID="node18o8o1n2cx77">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Instrument"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x78"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx78"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x78">
+<rdf:Description rdf:nodeID="node18o8o1n2cx78">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Genre"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2555,30 +2555,30 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link an artist, a musical work or the expression of a musical work to its corresponding MusicMoz page.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x79"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx79"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x79">
+<rdf:Description rdf:nodeID="node18o8o1n2cx79">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x80"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx80"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x80">
+<rdf:Description rdf:nodeID="node18o8o1n2cx80">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x81"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx81"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x81">
+<rdf:Description rdf:nodeID="node18o8o1n2cx81">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x82"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx82"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x82">
+<rdf:Description rdf:nodeID="node18o8o1n2cx82">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalExpression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x83"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx83"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x83">
+<rdf:Description rdf:nodeID="node18o8o1n2cx83">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2596,30 +2596,30 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Linking an agent, a track or a record to its corresponding Musicbrainz page.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x84"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx84"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x84">
+<rdf:Description rdf:nodeID="node18o8o1n2cx84">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x85"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx85"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x85">
+<rdf:Description rdf:nodeID="node18o8o1n2cx85">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x86"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx86"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x86">
+<rdf:Description rdf:nodeID="node18o8o1n2cx86">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x87"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx87"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x87">
+<rdf:Description rdf:nodeID="node18o8o1n2cx87">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x88"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx88"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x88">
+<rdf:Description rdf:nodeID="node18o8o1n2cx88">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Signal"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2637,35 +2637,35 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link a musical work or the expression of a musical work, an artist or a corporate body to to its corresponding Discogs page.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x89"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx89"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x89">
+<rdf:Description rdf:nodeID="node18o8o1n2cx89">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x90"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx90"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x90">
+<rdf:Description rdf:nodeID="node18o8o1n2cx90">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x91"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx91"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x91">
+<rdf:Description rdf:nodeID="node18o8o1n2cx91">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalExpression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x92"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx92"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x92">
+<rdf:Description rdf:nodeID="node18o8o1n2cx92">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x93"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx93"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x93">
+<rdf:Description rdf:nodeID="node18o8o1n2cx93">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x94"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx94"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x94">
+<rdf:Description rdf:nodeID="node18o8o1n2cx94">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2694,25 +2694,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
                 a Flash application) - it is better to link to actual content directly through the use of mo:available_as and
                 mo:Stream, mo:Torrent or mo:ED2K, etc. Therefore, Semantic Web user agents that don't know how to read HTML and even
                 less to rip streams from Flash applications can still access the audio content.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x95"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx95"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x95">
+<rdf:Description rdf:nodeID="node18o8o1n2cx95">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x96"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx96"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x96">
+<rdf:Description rdf:nodeID="node18o8o1n2cx96">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x97"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx97"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x97">
+<rdf:Description rdf:nodeID="node18o8o1n2cx97">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x98"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx98"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x98">
+<rdf:Description rdf:nodeID="node18o8o1n2cx98">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2736,25 +2736,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
                 a Flash application) - it is better to link to actual content directly through the use of mo:available_as and
                 mo:Stream, mo:Torrent or mo:ED2K, etc. Therefore, Semantic Web user agents that don't know how to read HTML and even
                 less to rip streams from Flash applications can still access the audio content.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x99"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx99"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x99">
+<rdf:Description rdf:nodeID="node18o8o1n2cx99">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x100"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx100"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x100">
+<rdf:Description rdf:nodeID="node18o8o1n2cx100">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x101"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx101"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x101">
+<rdf:Description rdf:nodeID="node18o8o1n2cx101">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x102"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx102"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x102">
+<rdf:Description rdf:nodeID="node18o8o1n2cx102">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2774,25 +2774,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Provide a link from an artist to a web page where all of that artist's musical work is available for some money,
                 or a link from a manifestation (record/track, for example) to a web page providing a paid access to this manifestation.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x103"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx103"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x103">
+<rdf:Description rdf:nodeID="node18o8o1n2cx103">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x104"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx104"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x104">
+<rdf:Description rdf:nodeID="node18o8o1n2cx104">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x105"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx105"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x105">
+<rdf:Description rdf:nodeID="node18o8o1n2cx105">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x106"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx106"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x106">
+<rdf:Description rdf:nodeID="node18o8o1n2cx106">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2826,25 +2826,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 		a Flash application) - it is better to link to actual content directly through the use of mo:available_as and 
 		mo:Stream, mo:Torrent or mo:ED2K, etc. Therefore, Semantic Web user agents that don't know how to read HTML and even
 		less to rip streams from Flash applications can still access the audio content.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x107"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx107"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x107">
+<rdf:Description rdf:nodeID="node18o8o1n2cx107">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x108"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx108"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x108">
+<rdf:Description rdf:nodeID="node18o8o1n2cx108">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x109"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx109"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x109">
+<rdf:Description rdf:nodeID="node18o8o1n2cx109">
 	<rdf:first rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x110"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx110"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x110">
+<rdf:Description rdf:nodeID="node18o8o1n2cx110">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2912,25 +2912,25 @@ In terms of intellectual content and physical form, an item exemplifying a manif
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link a work or the expression of a work to the license under which they can be manipulated (downloaded, modified, etc). 
     
 This is usually used to link to a Creative Commons licence.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x111"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx111"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x111">
+<rdf:Description rdf:nodeID="node18o8o1n2cx111">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x112"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx112"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x112">
+<rdf:Description rdf:nodeID="node18o8o1n2cx112">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Work"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x113"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx113"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x113">
+<rdf:Description rdf:nodeID="node18o8o1n2cx113">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Expression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x114"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx114"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x114">
+<rdf:Description rdf:nodeID="node18o8o1n2cx114">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2950,25 +2950,25 @@ This is usually used to link to a Creative Commons licence.</comment>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link a work or the expression of a work to a review. 
     
 The review does not have to be open content, as long as it is accessible to the general internet population.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x115"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx115"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x115">
+<rdf:Description rdf:nodeID="node18o8o1n2cx115">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x116"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx116"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x116">
+<rdf:Description rdf:nodeID="node18o8o1n2cx116">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Work"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x117"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx117"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x117">
+<rdf:Description rdf:nodeID="node18o8o1n2cx117">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Expression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x118"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx118"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x118">
+<rdf:Description rdf:nodeID="node18o8o1n2cx118">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -2986,30 +2986,30 @@ The review does not have to be open content, as long as it is accessible to the 
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link a work or the expression of a work to its corresponding Amazon ASINs page.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x119"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx119"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x119">
+<rdf:Description rdf:nodeID="node18o8o1n2cx119">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x120"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx120"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x120">
+<rdf:Description rdf:nodeID="node18o8o1n2cx120">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Work"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x121"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx121"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x121">
+<rdf:Description rdf:nodeID="node18o8o1n2cx121">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Expression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x122"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx122"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x122">
+<rdf:Description rdf:nodeID="node18o8o1n2cx122">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x123"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx123"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x123">
+<rdf:Description rdf:nodeID="node18o8o1n2cx123">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Item"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -3067,25 +3067,25 @@ The review does not have to be open content, as long as it is accessible to the 
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link a musical work or the expression of a musical work to a website where people can buy a copy of the musical manifestation.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x124"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx124"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x124">
+<rdf:Description rdf:nodeID="node18o8o1n2cx124">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x125"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx125"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x125">
+<rdf:Description rdf:nodeID="node18o8o1n2cx125">
 	<rdf:first rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x126"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx126"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x126">
+<rdf:Description rdf:nodeID="node18o8o1n2cx126">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x127"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx127"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x127">
+<rdf:Description rdf:nodeID="node18o8o1n2cx127">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -3103,35 +3103,35 @@ The review does not have to be open content, as long as it is accessible to the 
 	<level xmlns="http://purl.org/ontology/mo/">1</level>
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<comment xmlns="http://www.w3.org/2000/01/rdf-schema#">Used to link an artist, a musical work or the expression of a musical work to their equivalent page on IMDb, the InternetMovieDatabase.</comment>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x128"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx128"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x128">
+<rdf:Description rdf:nodeID="node18o8o1n2cx128">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x129"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx129"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x129">
+<rdf:Description rdf:nodeID="node18o8o1n2cx129">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalWork"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x130"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx130"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x130">
+<rdf:Description rdf:nodeID="node18o8o1n2cx130">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalExpression"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x131"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx131"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x131">
+<rdf:Description rdf:nodeID="node18o8o1n2cx131">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicalManifestation"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x132"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx132"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x132">
+<rdf:Description rdf:nodeID="node18o8o1n2cx132">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x133"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx133"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x133">
+<rdf:Description rdf:nodeID="node18o8o1n2cx133">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/CorporateBody"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -3704,20 +3704,20 @@ This means that two musical works or the expressions of a musical work by differ
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
 	<inverseOf xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/engineered"/>
 	<subPropertyOf xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://purl.org/NET/c4dm/event.owl#agent"/>
-	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x134"/>
+	<domain xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx134"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x134">
+<rdf:Description rdf:nodeID="node18o8o1n2cx134">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x135"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx135"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x135">
+<rdf:Description rdf:nodeID="node18o8o1n2cx135">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Performance"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x136"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx136"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x136">
+<rdf:Description rdf:nodeID="node18o8o1n2cx136">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Recording"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>
@@ -3735,20 +3735,20 @@ This means that two musical works or the expressions of a musical work by differ
 	<inverseOf xmlns="http://www.w3.org/2002/07/owl#" rdf:resource="http://purl.org/ontology/mo/engineer"/>
 	<subPropertyOf xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://purl.org/NET/c4dm/event.owl#isAgentIn"/>
 	<subPropertyOf xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://purl.org/vocab/bio/0.1/event"/>
-	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18mi9hfs9x137"/>
+	<range xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:nodeID="node18o8o1n2cx137"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x137">
+<rdf:Description rdf:nodeID="node18o8o1n2cx137">
 	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18mi9hfs9x138"/>
+	<unionOf xmlns="http://www.w3.org/2002/07/owl#" rdf:nodeID="node18o8o1n2cx138"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x138">
+<rdf:Description rdf:nodeID="node18o8o1n2cx138">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Performance"/>
-	<rdf:rest rdf:nodeID="node18mi9hfs9x139"/>
+	<rdf:rest rdf:nodeID="node18o8o1n2cx139"/>
 </rdf:Description>
 
-<rdf:Description rdf:nodeID="node18mi9hfs9x139">
+<rdf:Description rdf:nodeID="node18o8o1n2cx139">
 	<rdf:first rdf:resource="http://purl.org/ontology/mo/Recording"/>
 	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
 </rdf:Description>

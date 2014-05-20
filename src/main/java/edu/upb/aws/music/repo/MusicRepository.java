@@ -28,7 +28,7 @@ public class MusicRepository {
 	private static RepositoryConnection REPOSITORY_CONN;
 	private static final String ONTOLOGY_FILE_PATH = "src/main/resources/mo.rdf";
 	private static final String BASE_URI = "http://purl.org/ontology/mo/";
-	private static final boolean isCrawlNeeded = true;
+	private static final boolean isCrawlNeeded = false;
 	
 	public static RepositoryConnection getRepositoryConnection(){
 		if(REPOSITORY_CONN == null){
@@ -49,7 +49,7 @@ public class MusicRepository {
 		REPOSITORY_CONN = repository.getConnection();
 		REPOSITORY_CONN.add(new File(MusicRepository.class.getResource("/crawled_rdfxml.rdf").getPath()), BASE_URI, RDFFormat.RDFXML);
 		ValueFactory f = repository.getValueFactory();
-		FileOutputStream outputXML = new FileOutputStream(new File("/crawled_rdfxml.rdf"));
+		FileOutputStream outputXML = new FileOutputStream(new File("/output_rdfxml.rdf"));
 		
 		
 		//TODO: change to artist
@@ -93,6 +93,7 @@ public class MusicRepository {
 					null, null, null, true);
 			Model model = Iterations.addAll(statements, new LinkedHashModel());
 			Rio.write(model, outputXML, RDFFormat.RDFXML);
+			outputXML.close();
 		}
 
 	}

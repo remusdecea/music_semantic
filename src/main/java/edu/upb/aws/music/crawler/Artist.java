@@ -1,6 +1,7 @@
 package edu.upb.aws.music.crawler;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 
 public class Artist {
@@ -11,13 +12,21 @@ public class Artist {
 	private List<Artist> similarArtists;
 
 	public Artist(String name, String lastFmURL) {
-		this.name = name;
+		this.name = replaceSpaces(name);
 		this.lastFmURL = lastFmURL;
 		this.songs = new ArrayList<String>();
 		this.tags = new ArrayList<String>();
 		this.similarArtists = new ArrayList<>();
 	}
 
+	private String replaceSpaces(String str) {
+		Scanner s = new Scanner(str);
+		String result = "";
+		while(s.hasNext())
+			result += s.next() + "_";
+		return result.substring(0, result.length() - 1);
+	}
+	
 	@Override
 	public boolean equals(Object o) {
 		return this.lastFmURL.equals(((Artist)o).getLastFmURL());
@@ -38,7 +47,7 @@ public class Artist {
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.name = replaceSpaces(name);
 	}
 
 	public String getLastFmURL() {
@@ -70,7 +79,7 @@ public class Artist {
 	}
 	
 	public void addTag(String tag) {
-		tags.add(tag);
+		tags.add(replaceSpaces(tag));
 	}
 
 	public List<Artist> getSimilarArtists() {
